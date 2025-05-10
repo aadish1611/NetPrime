@@ -1,5 +1,5 @@
-# Youtube-Clone
-A clean and responsive YouTube homepage clone built using HTML and CSS. This project replicates the design of the YouTube homepage to showcase modern layout techniques and styling using only vanilla frontend technologies.
+# NetPrime
+A clean and responsive NetPrime homepage clone built using HTML and CSS. This project replicates the design of the YouTube homepage to showcase modern layout techniques and styling using only vanilla frontend technologies.
 
 Features
 Responsive layout modeled after YouTube’s homepage
@@ -15,7 +15,7 @@ HTML – for structured, semantic markup
 
 CSS – for layout, flexbox/grid, and styling
 
-Youtube Clone Structure
+NetPrime Structure
 Channel Picture
 Header Icon
 index.html
